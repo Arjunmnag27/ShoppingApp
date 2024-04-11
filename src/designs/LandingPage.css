@@ -1,0 +1,13 @@
+.LandingPage {
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.LandingPage img:first-child{
+    height: 100px;
+    width:100px;
+}
+.LandingPage a{
+    text-decoration: none;
+    font-family: cursive;
+}
